@@ -1,0 +1,17 @@
+Git cmds below
+1) sudo apt install git
+2) git --version
+3) git config --global user.name "RameshkumarE"
+4) git config --global user.email "eramesh147@gmail.com"
+5) git config --list
+6) mkdir foldername
+7) cd foldername
+8) vim filename
+9) ls -lha
+10) git config --global alias.i init
+11) git i
+12) ls -lha
+13) git status
+14) git add filename
+15) git commit -m "adding filename"
+16) git push origin main
