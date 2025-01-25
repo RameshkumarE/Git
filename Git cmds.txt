@@ -12,11 +12,12 @@ Git cmds below
 11) git i
 12) ls -lha
 13) git status
-14) git add filename  or git add .
+14) git add filename
 15) git commit -m "adding filename"
 16) git checkout -b new-branch
 17) git branch
 18) git switch main
 16) git push origin main
 17) git pull
-18) git restore
+18) git add . 
+19) 
