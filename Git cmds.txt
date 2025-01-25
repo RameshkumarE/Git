@@ -18,4 +18,4 @@ Git cmds below
 17) git branch
 18) git switch main
 16) git push origin main
-17) git pull 
+17) git pull
