@@ -1,0 +1,8 @@
+@echo off
+echo Running Google Chrome installer from D drive...
+
+set "installer_path=D:\ChromeSetup.exe"
+
+start /wait "" "%installer_path%"
+
+pause
