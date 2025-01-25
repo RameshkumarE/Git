@@ -19,3 +19,4 @@ Git cmds below
 18) git switch main
 16) git push origin main
 17) git pull
+18) git restore
