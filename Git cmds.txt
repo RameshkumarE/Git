@@ -20,4 +20,5 @@ Git cmds below
 16) git push origin main
 17) git pull
 18) git add . 
-19) 
+19) git branch
+20) git checkout -b "Automation"
