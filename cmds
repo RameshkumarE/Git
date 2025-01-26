@@ -1,1 +1,18 @@
-
+git status
+   83  git add Git\ cmds.txt
+   84  git status
+   85  git commit -m "stash cmd added"
+   86  git push origin
+   87  git branch
+   88  git diff
+   89  git diff
+   90  git checkout main
+   91  git status
+   92  git add Git\ cmds.txt
+   93  git commit -m "add"
+   94  git branch main
+   95  git checkout main
+   96  git status
+   97  git pull
+   98  git push origin main
+   99  history
