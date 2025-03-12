@@ -4,3 +4,11 @@ sudo dseditgroup -o edit -d "shreyapandya" -t user admin
 dscl . -read /Groups/admin GroupMembership\n
 sudo reboot\n
 reboot
+hdiutil mount git-2.15.0-intel-universal-mavericks.dmg
+cd /Volumes/Git\ 2.15.0\ Mavericks\ Intel\ Universal
+ls
+sudo installer -pkg git-2.15.0-intel-universal-mavericks.pkg -target /
+git --version
+hdiutil unmount /Volumes/Git\ 2.15.0\ Mavericks\ Intel\ Universal
+cd ..
+hdiutil unmount /Volumes/Git\ 2.15.0\ Mavericks\ Intel\ Universal
