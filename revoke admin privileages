@@ -12,3 +12,8 @@ git --version
 hdiutil unmount /Volumes/Git\ 2.15.0\ Mavericks\ Intel\ Universal
 cd ..
 hdiutil unmount /Volumes/Git\ 2.15.0\ Mavericks\ Intel\ Universal
+hdiutil mount FortiClientVPN_OnlineInstaller.dmg
+cd /Volumes/FortiClientInstaller
+pwd
+ls
+cp -r FortiClientInstaller.app /Applications
