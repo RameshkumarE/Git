@@ -22,3 +22,4 @@ Git cmds below
 18) git add . 
 19) git branch
 20) git checkout -b "Automation"
+21) git remote set-url origin https://<TOKEN>@github.com/<username>/<repo>.git
